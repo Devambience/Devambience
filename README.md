@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devambience
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about CMS
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
 <!---
